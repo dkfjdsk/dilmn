@@ -1,6 +1,11 @@
 {
   "coins": [
     {
+      "type": "DYDX",
+      "coin": 541.88604,
+      "data": "bian"
+    },
+    {
       "type": "EOS",
       "coin": 10297.45,
       "data": "bian"
@@ -118,6 +123,12 @@
       "value1": 3169,
       "target": "CAKE",
       "value2": 171.5298
+    },
+    {
+      "origin": "EOS",
+      "value1": 2000,
+      "target": "DYDX",
+      "value2": 541.88604
     }
   ]
 }
