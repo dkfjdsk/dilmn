@@ -28,15 +28,9 @@
       "data": "bian"
     },
     {
-      "type": "BNX",
-      "des": "// (25980usdt / 3)   => 5491",
-      "coin": 34.663134,
-      "data": "bian"
-    },
-    {
-      "des": "// 3169USDT",
+      "des": "//  5491+3169USDT",
       "type": "CAKE",
-      "coin": 171.5298,
+      "coin": 422.1475,
       "data": "bian"
     }
   ],
@@ -109,15 +103,9 @@
     },
     {
       "origin": "USDT",
-      "value1": 5491,
-      "target": "BNX",
-      "value2": 34.663134
-    },
-    {
-      "origin": "USDT",
       "value1": 3169,
       "target": "CAKE",
-      "value2": 171.5298
+      "value2": 422.1475
     }
   ]
 }
