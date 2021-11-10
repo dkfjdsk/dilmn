@@ -2,7 +2,12 @@
   "coins": [
     {
       "type": "EOS",
-      "coin": 10235.45,
+      "coin": 8235.45,
+      "data": "bian"
+    },
+    {
+      "type": "ENS",
+      "coin": 158.72366,
       "data": "bian"
     },
     {
@@ -106,6 +111,12 @@
       "value1": 8660,
       "target": "CAKE",
       "value2": 422.1475
+    },
+    {
+      "origin": "EOS",
+      "value1": 2000,
+      "target": "ENS",
+      "value2": 158.72366
     }
   ]
 }
