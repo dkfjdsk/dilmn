@@ -2,7 +2,12 @@
   "coins": [
     {
       "type": "EOS",
-      "coin": 10569.45,
+      "coin": 8146.45,
+      "data": "bian"
+    },
+    {
+      "type": "WAXP",
+      "coin": 13350,
       "data": "bian"
     },
     {
@@ -106,6 +111,12 @@
       "value1": 8660,
       "target": "CAKE",
       "value2": 422.1475
+    },
+    {
+      "origin": "EOS",
+      "value1": 2300,
+      "target": "WAXP",
+      "value2": 13350
     }
   ]
 }
