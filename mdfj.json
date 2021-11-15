@@ -2,7 +2,7 @@
   "coins": [
     {
       "type": "EOS",
-      "coin": 8146.45,
+      "coin": 9211,
       "data": "bian"
     },
     {
@@ -114,7 +114,7 @@
     },
     {
       "origin": "EOS",
-      "value1": 2300,
+      "value1": 2334.7,
       "target": "WAXP",
       "value2": 13350
     }
