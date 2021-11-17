@@ -132,13 +132,13 @@
       "origin": "EOS",
       "value1": 1000,
       "target": "SOL",
-      "value2": 19.95035,
+      "value2": 19.95035
     },
     {
       "origin": "EOS",
       "value1": 1000,
       "target": "ENS",
-      "value2": 86.5573,
+      "value2": 86.5573
     }
   ]
 }
