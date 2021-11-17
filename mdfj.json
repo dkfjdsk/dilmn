@@ -2,7 +2,17 @@
   "coins": [
     {
       "type": "EOS",
-      "coin": 9211,
+      "coin": 7211,
+      "data": "bian"
+    },
+    {
+      "type": "SOL",
+      "coin": 19.95035,
+      "data": "bian"
+    },
+    {
+      "type": "ENS",
+      "coin": 86.5573,
       "data": "bian"
     },
     {
@@ -117,6 +127,18 @@
       "value1": 2334.7,
       "target": "WAXP",
       "value2": 13350
+    },
+    {
+      "origin": "EOS",
+      "value1": 1000,
+      "target": "SOL",
+      "value2": 19.95035,
+    },
+    {
+      "origin": "EOS",
+      "value1": 1000,
+      "target": "ENS",
+      "value2": 86.5573,
     }
   ]
 }
