@@ -11,9 +11,9 @@
       "data": "bian"
     },
     {
-      "type": "ENS",
-      "coin": 86.5573,
-      "data": "bian"
+      "type": "GM",
+      "coin": 6539619.8340,
+      "data": "OKEX"
     },
     {
       "type": "WAXP",
@@ -137,8 +137,8 @@
     {
       "origin": "EOS",
       "value1": 1000,
-      "target": "ENS",
-      "value2": 86.5573
+      "target": "GM",
+      "value2": 6539619.8340
     }
   ]
 }
