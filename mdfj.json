@@ -16,9 +16,9 @@
       "data": "OKEX"
     },
     {
-      "type": "WAXP",
-      "coin": 13350,
-      "data": "bian"
+      "type": "RACA",
+      "coin": 1370919.85,
+      "data": "mxc"
     },
     {
       "type": "ETH",
@@ -124,9 +124,9 @@
     },
     {
       "origin": "EOS",
-      "value1": 2334.7,
-      "target": "WAXP",
-      "value2": 13350
+      "value1": 2877.6194,
+      "target": "RACA",
+      "value2": 1370919.85
     },
     {
       "origin": "EOS",
