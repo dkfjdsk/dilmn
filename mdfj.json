@@ -11,9 +11,9 @@
       "data": "bian"
     },
     {
-      "type": "GM",
-      "coin": 6539619.8340,
-      "data": "OKEX"
+      "type": "CAKE",
+      "coin": 173.3025,
+      "data": "bian"
     },
     {
       "type": "RACA",
@@ -137,8 +137,8 @@
     {
       "origin": "EOS",
       "value1": 1000,
-      "target": "GM",
-      "value2": 6539619.8340
+      "target": "CAKE",
+      "value2": 173.3025
     }
   ]
 }
