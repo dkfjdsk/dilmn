@@ -2,23 +2,8 @@
   "coins": [
     {
       "type": "EOS",
-      "coin": 7211,
+      "coin": 10844.918,
       "data": "bian"
-    },
-    {
-      "type": "SOL",
-      "coin": 19.95035,
-      "data": "bian"
-    },
-    {
-      "type": "CAKE",
-      "coin": 173.3025,
-      "data": "bian"
-    },
-    {
-      "type": "RACA",
-      "coin": 1370919.85,
-      "data": "mxc"
     },
     {
       "type": "ETH",
@@ -121,24 +106,6 @@
       "value1": 8660,
       "target": "CAKE",
       "value2": 422.1475
-    },
-    {
-      "origin": "EOS",
-      "value1": 2877.6194,
-      "target": "RACA",
-      "value2": 1370919.85
-    },
-    {
-      "origin": "EOS",
-      "value1": 1000,
-      "target": "SOL",
-      "value2": 19.95035
-    },
-    {
-      "origin": "EOS",
-      "value1": 1000,
-      "target": "CAKE",
-      "value2": 173.3025
     }
   ]
 }
