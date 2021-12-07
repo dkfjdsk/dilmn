@@ -16,9 +16,9 @@
       "index": 0
     },
     {
-      "type": "BTC",
+      "type": "SOL",
       "des": "// 25980usdt / 3",
-      "coin": 0.14257637166,
+      "coin": 36.64332,
       "data": "bian"
     },
     {
@@ -92,8 +92,8 @@
     {
       "origin": "USDT",
       "value1": 8660,
-      "target": "BTC",
-      "value2": 0.14257637166
+      "target": "SOL",
+      "value2": 36.64332
     },
     {
       "origin": "USDT",
