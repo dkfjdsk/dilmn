@@ -16,21 +16,9 @@
       "index": 0
     },
     {
-      "type": "SOL",
-      "des": "// 25980usdt / 3",
-      "coin": 36.64332,
-      "data": "bian"
-    },
-    {
-      "type": "ADA",
-      "des": "// 25980usdt / 3",
-      "coin": 4468.8002,
-      "data": "bian"
-    },
-    {
-      "des": "//  5491+3169USDT",
-      "type": "CAKE",
-      "coin": 422.1475,
+      "type": "EOS",
+      "des": "25980usdt",
+      "coin": 4836,
       "data": "bian"
     }
   ],
@@ -91,21 +79,9 @@
     },
     {
       "origin": "USDT",
-      "value1": 8660,
-      "target": "SOL",
-      "value2": 36.64332
-    },
-    {
-      "origin": "USDT",
-      "value1": 8660,
-      "target": "ADA",
-      "value2": 4468.8002
-    },
-    {
-      "origin": "USDT",
-      "value1": 8660,
-      "target": "CAKE",
-      "value2": 422.1475
+      "value1": 25980,
+      "target": "EOS",
+      "value2": 4836
     }
   ]
 }
