@@ -16,9 +16,21 @@
       "index": 0
     },
     {
+      "type": "ATOM",
+      "des": "10744usdt.   25980usdt",
+      "coin": 235.3202,
+      "data": "bian"
+    },
+    {
+      "type": "DOT",
+      "des": "10744usdt   25980usdt",
+      "coin": 222.3872,
+      "data": "bian"
+    },
+    {
       "type": "EOS",
-      "des": "25980usdt",
-      "coin": 4836,
+      "des": "4491.1663usdt   25980usdt",
+      "coin": 836,
       "data": "bian"
     }
   ],
@@ -79,9 +91,21 @@
     },
     {
       "origin": "USDT",
-      "value1": 25980,
+      "value1": 10744,
+      "target": "ATOM",
+      "value2": 235.3202
+    },
+    {
+      "origin": "USDT",
+      "value1": 10744,
+      "target": "DOT",
+      "value2": 222.3872
+    },
+    {
+      "origin": "USDT",
+      "value1": 4491.1663,
       "target": "EOS",
-      "value2": 4836
+      "value2": 836
     }
   ]
 }
