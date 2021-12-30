@@ -13,7 +13,7 @@
       "lp": 0.790988692019652125,
       "lpurl": "https://api.bscscan.com/api?module=stats&action=tokensupply&contractaddress=0xd171b26e4484402de70e3ea256be5a2630d7e88d&apikey=1QHGU59MKQYKF7PGFS74HGU8GMFD2KBZCD",
       "lpurl2": "https://api.bscscan.com/api?module=proxy&action=eth_call&to=0xd171b26e4484402de70e3ea256be5a2630d7e88d&data=0x0902f1ac&tag=latest&apikey=1QHGU59MKQYKF7PGFS74HGU8GMFD2KBZCD",
-      "index": 0
+      "index": 1
     },
     {
       "type": "ATOM",
