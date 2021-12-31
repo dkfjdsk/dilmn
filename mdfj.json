@@ -2,7 +2,12 @@
   "coins": [
     {
       "type": "EOS",
-      "coin": 10844.918,
+      "coin": 8844.918,
+      "data": "bian"
+    },
+    {
+      "type": "FTM",
+      "coin": 2767.284,
       "data": "bian"
     },
     {
@@ -28,9 +33,9 @@
       "data": "bian"
     },
     {
-      "type": "EOS",
+      "type": "FTX",
       "des": "4491.1663usdt   25980usdt",
-      "coin": 836,
+      "coin": 63.6468,
       "data": "bian"
     }
   ],
@@ -104,8 +109,14 @@
     {
       "origin": "USDT",
       "value1": 4491.1663,
-      "target": "EOS",
-      "value2": 836
+      "target": "FTX",
+      "value2": 63.6468
+    },
+    {
+      "origin": "EOS",
+      "value1": 2000,
+      "target": "FTM",
+      "value2": 2767.284
     }
   ]
 }
