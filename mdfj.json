@@ -33,7 +33,7 @@
       "data": "bian"
     },
     {
-      "type": "FTX",
+      "type": "FTT",
       "des": "4491.1663usdt   25980usdt",
       "coin": 63.6468,
       "data": "bian"
@@ -109,7 +109,7 @@
     {
       "origin": "USDT",
       "value1": 4491.1663,
-      "target": "FTX",
+      "target": "FTT",
       "value2": 63.6468
     },
     {
