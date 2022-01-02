@@ -117,6 +117,24 @@
       "value1": 2000,
       "target": "FTM",
       "value2": 2767.284
+    },
+    {
+      "origin": "EOS",
+      "value1": 2000,
+      "target": "ATOM",
+      "value2": 235.3202
+    },
+    {
+      "origin": "EOS",
+      "value1": 2000,
+      "target": "DOT",
+      "value2": 222.3872
+    },
+    {
+      "origin": "EOS",
+      "value1": 836,
+      "target": "FTT",
+      "value2": 63.6468
     }
   ]
 }
