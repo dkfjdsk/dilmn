@@ -7,7 +7,7 @@
     },
     {
       "type": "FTM",
-      "des": "5372usdt + 2000eos",
+      "des": "25980usdt中的5372usdt->1000eos（1346.2460） + 2000eos操作（2767.284）",
       "coin": 4113.9219,
       "data": "bian"
     },
@@ -23,13 +23,13 @@
     },
     {
       "type": "ATOM",
-      "des": "10744usdt + 5372usdt.   25980usdt",
+      "des": "25980usdt中的16116usdt->3000eos",
       "coin": 328.4732,
       "data": "bian"
     },
     {
       "type": "FTT",
-      "des": "4491.1663usdt   25980usdt",
+      "des": "25980usdt中的4491.1663usdt->836eos",
       "coin": 63.6468,
       "data": "bian"
     }
