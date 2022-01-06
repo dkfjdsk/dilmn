@@ -2,13 +2,7 @@
   "coins": [
     {
       "type": "EOS",
-      "coin": 8844.918,
-      "data": "bian"
-    },
-    {
-      "type": "FTM",
-      "des": "25980usdt中的5372usdt->1000eos（1346.2460） + 2000eos操作（2767.284）",
-      "coin": 4113.9219,
+      "coin": 17642,
       "data": "bian"
     },
     {
@@ -21,18 +15,6 @@
       "lpurl2": "https://api.bscscan.com/api?module=proxy&action=eth_call&to=0xd171b26e4484402de70e3ea256be5a2630d7e88d&data=0x0902f1ac&tag=latest&apikey=1QHGU59MKQYKF7PGFS74HGU8GMFD2KBZCD",
       "index": 1
     },
-    {
-      "type": "ATOM",
-      "des": "25980usdt中的16116usdt->3000eos",
-      "coin": 328.4732,
-      "data": "bian"
-    },
-    {
-      "type": "FTT",
-      "des": "25980usdt中的4491.1663usdt->836eos",
-      "coin": 63.6468,
-      "data": "bian"
-    }
   ],
 
   "apps": [
@@ -91,45 +73,27 @@
     },
     {
       "origin": "USDT",
-      "value1": 16116,
-      "target": "ATOM",
-      "value2": 328.4732
+      "value1": 25980,
+      "target": "EOS",
+      "value2": 6324
     },
     {
-      "origin": "USDT",
-      "value1": 5372,
-      "target": "FTM",
-      "value2": 1346.2460
+      "origin": "FTM",
+      "value1": 2767.284,
+      "target": "EOS",
+      "value2": 2744
     },
     {
-      "origin": "USDT",
-      "value1": 4491.1663,
-      "target": "FTT",
-      "value2": 63.6468
+      "origin": "FTM",
+      "value1": 1346.2460,
+      "target": "EOS",    
+      "value2": 1372
     },
     {
-      "origin": "EOS",
-      "value1": 2000,
-      "target": "FTM",
-      "value2": 2767.284
-    },
-    {
-      "origin": "EOS",
-      "value1": 1000,
-      "target": "FTM",
-      "value2": 1346.2460
-    },
-    {
-      "origin": "EOS",
-      "value1": 3000,
-      "target": "ATOM",
-      "value2": 328.4732
-    },
-    {
-      "origin": "EOS",
-      "value1": 836,
-      "target": "FTT",
-      "value2": 63.6468
+      "origin": "ATOM",
+      "value1": 328.4732,
+      "target": "EOS",
+      "value2": 4116
     }
   ]
 }
