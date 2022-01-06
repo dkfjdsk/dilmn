@@ -81,19 +81,19 @@
       "origin": "FTM",
       "value1": 2767.284,
       "target": "EOS",
-      "value2": 2744
+      "value2": 2648
     },
     {
       "origin": "FTM",
       "value1": 1346.2460,
       "target": "EOS",    
-      "value2": 1372
+      "value2": 1324
     },
     {
       "origin": "ATOM",
       "value1": 328.4732,
       "target": "EOS",
-      "value2": 4116
+      "value2": 4261
     }
   ]
 }
