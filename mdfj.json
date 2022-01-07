@@ -6,6 +6,16 @@
       "data": "bian"
     },
     {
+      "type": "ATOM",
+      "coin": 0,
+      "data": "bian"
+    },
+    {
+      "type": "FTM",
+      "coin": 0,
+      "data": "bian"
+    },
+    {
       "type": "BTC",
       "des": "// 15000usdt + 1eth + 原本",
       "coin": 0,
