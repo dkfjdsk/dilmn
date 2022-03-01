@@ -2,7 +2,7 @@
   "coins": [
     {
       "type": "EOS",
-      "coin": 17642,
+      "coin": 10642,
       "data": "bian"
     },
     {
@@ -12,8 +12,23 @@
     },
     {
       "type": "FTM",
-      "coin": 0,
+      "coin": 2817,
       "data": "bian"
+    },
+    {
+      "type": "BNB",
+      "coin": 12.6634,
+      "data": "bian"
+    },
+    {
+      "type": "LUNA",
+      "coin": 59.02,
+      "data": "bian"
+    },
+    {
+      "type": "TLOS",
+      "coin": 0,
+      "data": "mxc"
     },
     {
       "type": "BTC",
@@ -93,15 +108,27 @@
     },
     {
       "origin": "FTM",
-      "value1": 2767.284,
+      "value1": 2817,
       "target": "EOS",
-      "value2": 2648
+      "value2": 2334
     },
     {
-      "origin": "FTM",
-      "value1": 1346.2460,
+      "origin": "BNB",
+      "value1": 12.6634,
       "target": "EOS",    
-      "value2": 1324
+      "value2": 2334
+    },
+    {
+      "origin": "LUNA",
+      "value1": 59.02,
+      "target": "EOS",    
+      "value2": 2334
+    },
+    {
+      "origin": "TLOS",
+      "value1": 3743,
+      "target": "EOS",    
+      "value2": 1872
     },
     {
       "origin": "ATOM",
