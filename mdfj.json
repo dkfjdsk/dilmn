@@ -2,12 +2,12 @@
   "coins": [
     {
       "type": "EOS",
-      "coin": 10642,
+      "coin": 8256,
       "data": "bian"
     },
     {
       "type": "ATOM",
-      "coin": 0,
+      "coin": 164.455,
       "data": "bian"
     },
     {
@@ -125,16 +125,16 @@
       "value2": 2334
     },
     {
+      "origin": "ATOM",
+      "value1": 164.455,
+      "target": "EOS",
+      "value2": 2334
+    },
+    {
       "origin": "TLOS",
       "value1": 3743,
       "target": "EOS",    
       "value2": 1872
-    },
-    {
-      "origin": "ATOM",
-      "value1": 328.4732,
-      "target": "EOS",
-      "value2": 4261
     }
   ]
 }
