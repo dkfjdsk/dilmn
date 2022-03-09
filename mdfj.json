@@ -2,7 +2,12 @@
   "coins": [
     {
       "type": "EOS",
-      "coin": 8256,
+      "coin": 5922,
+      "data": "bian"
+    },
+    {
+      "type": "SOL",
+      "coin": 54.01,
       "data": "bian"
     },
     {
@@ -127,6 +132,12 @@
     {
       "origin": "ATOM",
       "value1": 164.455,
+      "target": "EOS",
+      "value2": 2334
+    },
+    {
+      "origin": "SOL",
+      "value1": 54.01,
       "target": "EOS",
       "value2": 2334
     },
