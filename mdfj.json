@@ -17,7 +17,7 @@
     },
     {
       "type": "FTM",
-      "coin": 2817,
+      "coin": 0,
       "data": "bian"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "type": "LUNA",
-      "coin": 59.02,
+      "coin": 95.26,
       "data": "bian"
     },
     {
@@ -111,12 +111,7 @@
       "target": "EOS",
       "value2": 6324
     },
-    {
-      "origin": "FTM",
-      "value1": 2817,
-      "target": "EOS",
-      "value2": 2334
-    },
+    
     {
       "origin": "BNB",
       "value1": 12.6634,
@@ -125,9 +120,9 @@
     },
     {
       "origin": "LUNA",
-      "value1": 59.02,
+      "value1": 95.26,
       "target": "EOS",    
-      "value2": 2334
+      "value2": 4668
     },
     {
       "origin": "ATOM",
@@ -146,6 +141,12 @@
       "value1": 3743,
       "target": "EOS",    
       "value2": 1872
+    },
+    {
+      "origin": "FTM",
+      "value1": 2817,
+      "target": "EOS",
+      "value2": 2334
     }
   ]
 }
