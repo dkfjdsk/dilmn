@@ -113,40 +113,40 @@
     },
     
     {
-      "origin": "BNB",
-      "value1": 12.6634,
-      "target": "EOS",    
-      "value2": 2334
+      "target": "BNB",
+      "value2": 12.6634,
+      "origin": "EOS",    
+      "value1": 2334
     },
     {
-      "origin": "LUNA",
-      "value1": 95.26,
-      "target": "EOS",    
-      "value2": 4668
+      "target": "LUNA",
+      "value2": 95.26,
+      "origin": "EOS",    
+      "value1": 4668
     },
     {
-      "origin": "ATOM",
-      "value1": 164.455,
-      "target": "EOS",
-      "value2": 2334
+      "target": "ATOM",
+      "value2": 164.455,
+      "origin": "EOS",
+      "value1": 2334
     },
     {
-      "origin": "SOL",
-      "value1": 54.01,
-      "target": "EOS",
-      "value2": 2334
+      "target": "SOL",
+      "value2": 54.01,
+      "origin": "EOS",
+      "value1": 2334
     },
     {
-      "origin": "TLOS",
-      "value1": 3743,
-      "target": "EOS",    
-      "value2": 1872
+      "target": "TLOS",
+      "value2": 3743,
+      "origin": "EOS",    
+      "value1": 1872
     },
     {
-      "origin": "FTM",
-      "value1": 2817,
-      "target": "EOS",
-      "value2": 2334
+      "target": "FTM",
+      "value2": 2817,
+      "origin": "EOS",
+      "value1": 2334
     }
   ]
 }
