@@ -2,12 +2,17 @@
   "coins": [
     {
       "type": "EOS",
-      "coin": 5922,
+      "coin": 8043,
       "data": "bian"
     },
     {
+      "type": "ETC",
+      "coin": 130.03,
+      "data": "bian"
+    },
+     {
       "type": "SOL",
-      "coin": 54.01,
+      "coin": 0,
       "data": "bian"
     },
     {
@@ -22,7 +27,7 @@
     },
     {
       "type": "BNB",
-      "coin": 12.6634,
+      "coin": 0,
       "data": "bian"
     },
     {
@@ -47,8 +52,13 @@
     },
     {
       "type": "RON",
-      "coin": 820,
+      "coin": 0,
       "data": "OKEX"
+    },
+    {
+      "type": "ETH",
+      "coin": 0,
+      "data": "bian"
     }
   ],
   "apps": [
@@ -113,10 +123,10 @@
     },
     
     {
-      "target": "BNB",
-      "value2": 12.6634,
+      "target": "ETC",
+      "value2":  130.03,
       "origin": "EOS",    
-      "value1": 2334
+      "value1": 2547
     },
     {
       "target": "LUNA",
@@ -127,24 +137,6 @@
     {
       "target": "ATOM",
       "value2": 164.455,
-      "origin": "EOS",
-      "value1": 2334
-    },
-    {
-      "target": "SOL",
-      "value2": 54.01,
-      "origin": "EOS",
-      "value1": 2334
-    },
-    {
-      "target": "TLOS",
-      "value2": 3743,
-      "origin": "EOS",    
-      "value1": 1872
-    },
-    {
-      "target": "FTM",
-      "value2": 2817,
       "origin": "EOS",
       "value1": 2334
     }
