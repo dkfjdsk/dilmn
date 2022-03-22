@@ -7,7 +7,7 @@
     },
     {
       "type": "ETC",
-      "coin": 130.03,
+      "coin": 207,
       "data": "bian"
     },
      {
@@ -32,7 +32,7 @@
     },
     {
       "type": "LUNA",
-      "coin": 95.26,
+      "coin": 58.98,
       "data": "bian"
     },
     {
@@ -124,15 +124,15 @@
     
     {
       "target": "ETC",
-      "value2":  130.03,
+      "value2":  207,
       "origin": "EOS",    
-      "value1": 2547
+      "value1": 4881
     },
     {
       "target": "LUNA",
-      "value2": 95.26,
+      "value2": 58.98,
       "origin": "EOS",    
-      "value1": 4668
+      "value1": 2334
     },
     {
       "target": "ATOM",
