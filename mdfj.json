@@ -2,12 +2,12 @@
   "coins": [
     {
       "type": "EOS",
-      "coin": 8043,
+      "coin": 10400,
       "data": "bian"
     },
     {
       "type": "ETC",
-      "coin": 207,
+      "coin": 77,
       "data": "bian"
     },
      {
@@ -120,9 +120,9 @@
     
     {
       "target": "ETC",
-      "value2":  207,
+      "value2":  77,
       "origin": "EOS",    
-      "value1": 4881
+      "value1": 2547
     },
     {
       "target": "LUNA",
