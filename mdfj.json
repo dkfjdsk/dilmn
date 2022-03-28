@@ -2,12 +2,12 @@
   "coins": [
     {
       "type": "EOS",
-      "coin": 9500,
+      "coin": 10839,
       "data": "bian"
     },
     {
       "type": "ETC",
-      "coin": 77,
+      "coin": 0,
       "data": "bian"
     },
      {
@@ -118,40 +118,28 @@
       "value2": 6324
     },
     {
-      "target": "ETC",
-      "value2":  77,
-      "origin": "USDT",    
-      "value1": 9880
-    },
-    {
       "target": "LUNA",
       "value2": 58.98,
       "origin": "USDT",    
-      "value1": 9880
+      "value1": 12628
     },
     {
       "target": "ATOM",
       "value2": 164.455,
       "origin": "USDT",    
-      "value1": 9880
-    },
-    {
-      "target": "ETC",
-      "value2":  77,
-      "origin": "EOS",    
-      "value1": 2405
+      "value1": 12628
     },
     {
       "target": "LUNA",
       "value2": 58.98,
       "origin": "EOS",    
-      "value1": 2405
+      "value1": 3074
     },
     {
       "target": "ATOM",
       "value2": 164.455,
       "origin": "EOS",
-      "value1": 2405
+      "value1": 3074
     },
     {
       "target": "ETH",
