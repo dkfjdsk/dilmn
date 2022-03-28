@@ -117,24 +117,41 @@
       "target": "EOS",
       "value2": 6324
     },
-    
+    {
+      "target": "ETC",
+      "value2":  77,
+      "origin": "USDT",    
+      "value1": 9880
+    },
+    {
+      "target": "LUNA",
+      "value2": 58.98,
+      "origin": "USDT",    
+      "value1": 9880
+    },
+    {
+      "target": "ATOM",
+      "value2": 164.455,
+      "origin": "USDT",    
+      "value1": 9880
+    },
     {
       "target": "ETC",
       "value2":  77,
       "origin": "EOS",    
-      "value1": 2547
+      "value1": 2405
     },
     {
       "target": "LUNA",
       "value2": 58.98,
       "origin": "EOS",    
-      "value1": 2334
+      "value1": 2405
     },
     {
       "target": "ATOM",
       "value2": 164.455,
       "origin": "EOS",
-      "value1": 2334
+      "value1": 2405
     },
     {
       "target": "ETH",
