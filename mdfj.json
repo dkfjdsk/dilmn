@@ -2,7 +2,7 @@
   "coins": [
     {
       "type": "EOS",
-      "coin": 10839,
+      "coin": 23448,
       "data": "bian"
     },
     {
@@ -43,7 +43,7 @@
     {
       "type": "BTC",
       "des": "// 15000usdt + 1eth + 原本",
-      "coin": 0.4422,
+      "coin": 0, //0.4422,
       "data": "bian"
     },
     {
@@ -146,6 +146,18 @@
       "value2": 0.4052,
       "origin": "EOS",
       "value1": 500
+    },
+    {
+      "target": "BTC",
+      "value2": 0.223165,
+      "origin": "EOS",
+      "value1": 6304.5
+    },
+    {
+      "target": "ETH",
+      "value2": 3.10541,
+      "origin": "EOS",
+      "value1": 6304.5
     }
   ]
 }
