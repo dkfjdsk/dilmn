@@ -42,8 +42,8 @@
     },
     {
       "type": "BTC",
-      "des": "// 15000usdt + 1eth + 原本",
-      "coin": 0, //0.4422,
+      "des": "// 15000usdt + 1eth + 原本          0.4422",
+      "coin": 0,
       "data": "bian"
     },
     {
