@@ -2,7 +2,7 @@
   "coins": [
     {
       "type": "EOS",
-      "coin": 23448,
+      "coin": 18115,
       "data": "bian"
     },
     {
@@ -151,13 +151,13 @@
       "target": "BTC",
       "value2": 0.223165,
       "origin": "EOS",
-      "value1": 6304.5
+      "value1": 3638.5
     },
     {
       "target": "ETH",
       "value2": 3.10541,
       "origin": "EOS",
-      "value1": 6304.5
+      "value1": 3638.5
     }
   ]
 }
