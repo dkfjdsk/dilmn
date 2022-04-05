@@ -2,17 +2,7 @@
   "coins": [
     {
       "type": "EOS",
-      "coin": 18115,
-      "data": "bian"
-    },
-    {
-      "type": "ETC",
-      "coin": 0,
-      "data": "bian"
-    },
-     {
-      "type": "SOL",
-      "coin": 0,
+      "coin": 17115,
       "data": "bian"
     },
     {
@@ -21,24 +11,9 @@
       "data": "bian"
     },
     {
-      "type": "FTM",
-      "coin": 0,
-      "data": "bian"
-    },
-    {
-      "type": "BNB",
-      "coin": 0,
-      "data": "bian"
-    },
-    {
       "type": "LUNA",
       "coin": 97.981151,
       "data": "bian"
-    },
-    {
-      "type": "TLOS",
-      "coin": 0,
-      "data": "mxc"
     },
     {
       "type": "BTC",
@@ -47,13 +22,8 @@
       "data": "bian"
     },
     {
-      "type": "RON",
-      "coin": 0,
-      "data": "OKEX"
-    },
-    {
       "type": "ETH",
-      "coin": 1.0552,
+      "coin": 1.8572,
       "data": "bian"
     }
   ],
@@ -143,9 +113,10 @@
     },
     {
       "target": "ETH",
-      "value2": 0.4052,
+      "value2": 1.2072,
       "origin": "EOS",
-      "value1": 500
+      "value1": 1500,
+      "des": "玩nft"
     },
     {
       "target": "BTC",
