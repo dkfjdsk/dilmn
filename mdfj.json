@@ -2,7 +2,7 @@
   "coins": [
     {
       "type": "EOS",
-      "coin": 17115,
+      "coin": 16115,
       "data": "bian"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "type": "LUNA",
-      "coin": 97.981151,
+      "coin": 97.981151, // 3.3259703 ETH
       "data": "bian"
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "type": "ETH",
-      "coin": 1.8572,
+      "coin": 2.62259049,
       "data": "bian"
     }
   ],
@@ -100,6 +100,12 @@
     {
       "target": "LUNA",
       "value2": 97.981151,
+      "origin": "ETH",    
+      "value1": 3.3259703
+    },
+    {
+      "target": "LUNA",
+      "value2": 97.981151,
       "origin": "USDT",    
       "value1": 22891
     },
@@ -123,9 +129,9 @@
     },
     {
       "target": "ETH",
-      "value2": 1.2072,
+      "value2": 1.97259049,
       "origin": "EOS",
-      "value1": 1500,
+      "value1": 2500,
       "des": "玩nft"
     },
     {
