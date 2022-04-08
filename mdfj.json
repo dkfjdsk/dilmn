@@ -2,7 +2,12 @@
   "coins": [
     {
       "type": "EOS",
-      "coin": 16115,
+      "coin": 13115,
+      "data": "bian"
+    },
+    {
+      "type": "NEAR",
+      "coin": 398.9,
       "data": "bian"
     },
     {
@@ -12,7 +17,8 @@
     },
     {
       "type": "LUNA",
-      "coin": 97.981151, // 3.3259703 ETH
+      "coin": 97.981151,
+      "des": "// 3.3259703 ETH 在BSC",
       "data": "bian"
     },
     {
@@ -132,19 +138,27 @@
       "value2": 1.97259049,
       "origin": "EOS",
       "value1": 2500,
-      "des": "玩nft"
+      "des": "从eos拿出一部分来玩nft"
     },
     {
+      "des": "之前的15000usdt（第一个）btc/eth 换成了eos来操作",
       "target": "BTC",
       "value2": 0.223165,
       "origin": "EOS",
       "value1": 3638.5
     },
     {
+      "des": "之前的15000usdt（第一个）btc/eth 换成了eos来操作",
       "target": "ETH",
       "value2": 3.10541,
       "origin": "EOS",
       "value1": 3638.5
+    },
+    {
+      "target": "NEAR",
+      "value2": 398.9,
+      "origin": "EOS",
+      "value1": 3000
     }
   ]
 }
