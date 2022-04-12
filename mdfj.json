@@ -2,7 +2,7 @@
   "coins": [
     {
       "type": "EOS",
-      "coin": 13115,
+      "coin": 10115,
       "data": "bian"
     },
     {
@@ -31,6 +31,11 @@
       "type": "ETH",
       "coin": 2.62259049,
       "data": "bian"
+    },
+    {
+      "type": "RON",
+      "coin": 4011,
+      "data": "OKEX"
     }
   ],
   "apps": [
@@ -157,6 +162,12 @@
     {
       "target": "NEAR",
       "value2": 398.9,
+      "origin": "EOS",
+      "value1": 3000
+    },
+    {
+      "target": "RON",
+      "value2": 4011,
       "origin": "EOS",
       "value1": 3000
     }
