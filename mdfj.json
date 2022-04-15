@@ -16,12 +16,6 @@
       "data": "bian"
     },
     {
-      "type": "LUNA",
-      "coin": 97.981151,
-      "des": "// 3.3259703 ETH 在BSC  -> 有1个转到了eth玩nft了 ",
-      "data": "bian"
-    },
-    {
       "type": "BTC",
       "des": "// 15000usdt + 1eth + 原本          0.4422",
       "coin": 0,
@@ -29,8 +23,9 @@
     },
     {
       "type": "ETH",
-      "coin": 2.62259049,
-      "data": "bian"
+      "coin": 5.94856079,
+      "data": "bian",
+      "des": "玩NFT的    （3.3259703 ETH -> 之前luna 5000多eos换的 在BSC  -> 有1个转到了sgxiang钱包玩nft了 "
     },
     {
       "type": "RON",
@@ -109,14 +104,8 @@
       "value2": 6324
     },
     {
-      "target": "LUNA",
-      "value2": 97.981151,
-      "origin": "ETH",    
-      "value1": 3.3259703
-    },
-    {
-      "target": "LUNA",
-      "value2": 97.981151,
+      "target": "ETH",
+      "value2": 3.3259703,
       "origin": "USDT",    
       "value1": 22891
     },
@@ -127,8 +116,8 @@
       "value1": 2365.038
     },
     {
-      "target": "LUNA",
-      "value2": 97.981151,
+      "target": "ETH",
+      "value2": 3.3259703,
       "origin": "EOS",    
       "value1": 5572.28
     },
